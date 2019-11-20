@@ -156,7 +156,7 @@ figcaption {
 .section.cc-cta.farmtotable {
   margin-right: 0px;
   margin-left: 0px;
-  background-image: url('../images/ella-olsson-rD3YrnhTmf0-unsplash.jpg');
+  background-image: url('../images/FarmToTableBG_Home.jpg');
   background-position: 0px 0px;
   background-size: cover;
   background-attachment: scroll;
@@ -631,8 +631,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #fff;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(26, 27, 31, 0.5)), to(rgba(26, 27, 31, 0.5))), url('../images/constance-chen-dKxGVeb3F2w-unsplash.jpg');
-  background-image: linear-gradient(180deg, rgba(26, 27, 31, 0.5), rgba(26, 27, 31, 0.5)), url('../images/constance-chen-dKxGVeb3F2w-unsplash.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(26, 27, 31, 0.5)), to(rgba(26, 27, 31, 0.5))), url('../images/HeaderBG_Home.jpg');
+  background-image: linear-gradient(180deg, rgba(26, 27, 31, 0.5), rgba(26, 27, 31, 0.5)), url('../images/HeaderBG_Home.jpg');
   background-position: 0px 0px, 50% 55%;
   background-size: auto, cover;
   background-attachment: scroll, fixed;
@@ -642,7 +642,7 @@ figcaption {
 .intro-header.cc-subpage {
   height: 600px;
   background-color: #000;
-  background-image: url('../images/the-creative-exchange-j-c4gLFuqTk-unsplash.jpg');
+  background-image: url('../images/HeaderBG_Menu.jpg');
   background-position: 50% 45%;
   background-size: cover;
   background-repeat: repeat;
@@ -652,7 +652,7 @@ figcaption {
 
 .intro-header.contact-header {
   height: 500px;
-  background-image: url('../images/plush-design-studio-cU7wLFRyWWw-unsplash.jpg');
+  background-image: url('../images/HeaderBG_Contact.jpg');
   background-position: 100% 0%;
   background-size: cover;
   background-repeat: repeat;
@@ -1377,7 +1377,7 @@ figcaption {
   -ms-grid-rows: auto auto auto;
   grid-template-rows: auto auto auto;
   background-color: #d6d6d6;
-  background-image: url('../images/cayla1-w6ftFbPCs9I-unsplash.jpg');
+  background-image: url('../images/MenuAndAnnouncementBG_Home.jpg');
   background-position: 0% 0%;
   background-size: cover;
   background-attachment: fixed;
@@ -2060,8 +2060,8 @@ figcaption {
   }
   .section.cc-cta.farmtotable {
     padding: 0px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(26, 27, 31, 0.3)), to(rgba(26, 27, 31, 0.3))), url('../images/ella-olsson-rD3YrnhTmf0-unsplash.jpg');
-    background-image: linear-gradient(180deg, rgba(26, 27, 31, 0.3), rgba(26, 27, 31, 0.3)), url('../images/ella-olsson-rD3YrnhTmf0-unsplash.jpg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(26, 27, 31, 0.3)), to(rgba(26, 27, 31, 0.3))), url('../images/FarmToTableBG_Home.jpg');
+    background-image: linear-gradient(180deg, rgba(26, 27, 31, 0.3), rgba(26, 27, 31, 0.3)), url('../images/FarmToTableBG_Home.jpg');
     background-position: 0px 0px, 0% 0%;
     background-size: auto, cover;
     background-attachment: scroll, fixed;
